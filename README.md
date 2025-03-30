@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left">Olá, me chamo Gabriela!</h1>
 
-<!--
-**gabrielabess/gabrielabess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Estou no primeiro semestre de Analise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Sobre mim...</h2>
+
+###
+
+<p align="left">✨ Sou iniciante no mundo TI<br>📚 Atualmente estou aprendendo Python e C<br>🎲 E estou muito empolgada para aprender cada vez mais!</p>
+
+###
+
