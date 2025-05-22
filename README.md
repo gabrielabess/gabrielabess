@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Sou iniciante no mundo TI<br>📚 Atualmente estou aprendendo Python e C<br>🎲 E estou muito empolgada para aprender cada vez mais!</p>
+<p align="left">✨ Sou iniciante no mundo TI<br>📚 Atualmente estou aprendendo C<br>🎲 E estou muito empolgada para aprender cada vez mais!</p>
 
 ###
 
