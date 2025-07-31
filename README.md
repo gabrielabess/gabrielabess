@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estou no primeiro semestre de Analise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul.</p>
+<p align="left">Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal do Rio Grande do Sul.</p>
 
 ###
 
