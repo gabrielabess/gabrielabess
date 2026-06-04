@@ -1,20 +1,21 @@
 name: Generate Datas
 
 on:
-  schedule: # Roda automaticamente a cada 24 horas
+  schedule:
     - cron: "0 0 * * *"
-  
-  workflow_dispatch: # Permite rodar o script manualmente
+  workflow_dispatch:
+
+# Esta é a parte nova que dá permissão de escrita e resolve o erro 403:
+permissions:
+  contents: write
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Checkout do repositório
       - uses: actions/checkout@v3
       
-      # Gera a animação da cobrinha
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,7 +24,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Envia os arquivos gerados para a branch "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
