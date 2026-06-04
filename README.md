@@ -32,6 +32,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gabrielabess/gabrielabess/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielabess/gabrielabess/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielabess/gabrielabess/output/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobrinha do GitHub" src="https://raw.githubusercontent.com/gabrielabess/gabrielabess/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ###
